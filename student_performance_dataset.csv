@@ -1,0 +1,16 @@
+StudentID,Name,Gender,Department,StudyHours,Marks
+1,Aarav,Male,CSE,2,55
+2,Diya,Female,ECE,4,72
+3,Rohan,Male,CSE,3,65
+4,Ananya,Female,IT,5,80
+5,Vikram,Male,ECE,6,88
+6,Sneha,Female,CSE,4,75
+7,Arjun,Male,IT,7,92
+8,Kavya,Female,CSE,3,62
+9,Rahul,Male,ECE,5,78
+10,Priya,Female,IT,6,85
+11,Aditya,Male,CSE,8,95
+12,Meera,Female,ECE,4,70
+13,Kiran,Male,IT,2,58
+14,Ishita,Female,CSE,7,90
+15,Varun,Male,ECE,5,82
